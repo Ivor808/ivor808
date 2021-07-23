@@ -10,7 +10,6 @@ I'm an aspiring developer based in Seattle, WA. I have experience with Java, C, 
   - Foundations of Software Engineering.
 
 ![Ivor's github stats](https://github-readme-stats.vercel.app/api?username=ivor808&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2)
-[![Sparkline](https://stars.medv.io/ivor808/badges.svg)](https://stars.medv.io/ivor808/badges)
 
 <!--
 **Ivor808/ivor808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
