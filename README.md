@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ivor808@gmail.com)
 
 ## About
-I'm an aspiring developer based in Seattle, WA. I have experience with Java, C, Python, and SQL. You'll find all my side projects here from my beginnings with Python to my current spring boot projects. Check out my personal website: [ivorzalud.com](ivorzalud.com)
+I'm an aspiring developer based in Seattle, WA. I have experience with Java, C, Python, and SQL. You'll find all my side projects here from my beginnings with Python to my current spring boot projects. Check out my personal website: [ivorzalud.com](https://ivorzalud.com)
 - 🌱 I’m currently learning
   - Algorithms and Data structures
   - Foundations of Software Engineering.
