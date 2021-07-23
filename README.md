@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivor-zalud/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ivor808@gmail.com)
 
-[![Ivor zalud's github stats](https://github-readme-stats.vercel.app/api?username=ivor808&count_private=true&show_icons=true&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
+![Ivor's github stats](https://github-readme-stats.vercel.app/api?username=ivor808&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2)
 
 <!--
 **Ivor808/ivor808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
