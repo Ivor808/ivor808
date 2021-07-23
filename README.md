@@ -1,4 +1,7 @@
 ### Hi, I'm Ivor 👋
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ivor808)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivor-zalud/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ivor808@gmail.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivor808)](https://github.com/anuraghazra/github-readme-stats)
 
