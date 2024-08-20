@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ivor808@gmail.com)
 
 ## About
-I'm a software engineer based in Seattle, WA. I have experience with Java, C, Typescript, React, Python, and SQL. You'll find all my side projects here from my beginnings with Python to my current spring boot projects. Check out my personal website: [ivorzalud.com](https://ivorzalud.com)
+I'm a senior software engineer based in Seattle, WA. I have experience with Java, C, Typescript, React, Python, and SQL. You'll find all my side projects here from my beginnings with Python to my current spring boot projects. Check out my personal website: [ivorzalud.com](https://ivorzalud.com)
 
 ![Ivor's github stats](https://github-readme-stats.vercel.app/api?username=ivor808&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2)
 
